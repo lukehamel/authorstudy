@@ -1,4 +1,4 @@
-    body {
+ body {
         background-color: #f5f7f4;
         margin-left: 10px;
     }
@@ -13,21 +13,15 @@
     background-color: #b3c2df;
     text-align: left;
     padding: 8px;
-    font-size: 12px;
- 
 }
 
 p {
-    font-family: "Trebuchet MS", Times, serif;
-    font-size: 12px;
-    letter-spacing: 1px;
-    line-height: 2;
+ font-family: "Trebuchet MS", Times, serif;
  }
 
 p.title {
-    font-family: "Verdana", Times, serif;
-    text-align: center;
-    font-size: 16px;
+ font-family: "Verdana", Times, serif;
+ text-align: center;
  }
 
 
