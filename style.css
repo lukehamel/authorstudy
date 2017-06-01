@@ -25,6 +25,7 @@ ul {
     padding: 0;
     overflow: hidden;
     background-color: #333;
+    font-family: "Verdana", Times, serif;
 }
 
 li {
@@ -34,7 +35,7 @@ li {
 li a {
     display: block;
     color: white;
-    text-align: center;
+    text-align: left;
     padding: 14px 16px;
     text-decoration: none;
 }
