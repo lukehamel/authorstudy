@@ -13,20 +13,20 @@
     background-color: #b3c2df;
     text-align: left;
     padding: 8px;
-    line-height: 1.8;
+    line-height: 2;
 }
 
 p {
     font-family: "Trebuchet MS", Times, serif;
-    font-size: 40px;
+    font-size: 36px;
     letter-spacing: 3px;
-    line-height: 1.8;
+    line-height: 2;
  }
 
 p.title {
     font-family: "Verdana", Times, serif;
     text-align: center;
-    font-size: 40px;
+    font-size: 36px;
  }
 
 
