@@ -18,3 +18,9 @@
 p {
  font-family: "Trebuchet MS", Times, serif;
  }
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
