@@ -5,6 +5,7 @@
 
 
 .mainPart {
+    border:0px solid blue;
     margin-left: auto;
     margin-right: auto;
     width: 90%;
