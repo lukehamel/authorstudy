@@ -5,11 +5,11 @@
 
 
 .mainPart {
-    border:0px solid blue;
+   border:3px solid blue;
     margin-left: auto;
     margin-right: auto;
     width: 90%;
-    background-color: a9b9f3;
+    background-color: #86898e;
     text-align: center;
     padding: 8px;
 }
