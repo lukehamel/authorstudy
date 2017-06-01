@@ -16,15 +16,15 @@
 }
 
 p {
- font-family: "Trebuchet MS", Times, serif;
-  font-size: 40px;
-  letter-spacing: 3px;
+    font-family: "Trebuchet MS", Times, serif;
+    font-size: 40px;
+    letter-spacing: 3px;
     line-height: 1.8;
  }
 
 p.title {
- font-family: "Verdana", Times, serif;
- text-align: center;
+    font-family: "Verdana", Times, serif;
+    text-align: center;
     font-size: 40px;
  }
 
