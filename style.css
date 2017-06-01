@@ -11,13 +11,18 @@
     margin-top: auto;
     width: 90%;
     background-color: #b3c2df;
-    text-align: center;
+    text-align: left;
     padding: 8px;
 }
 
 p {
  font-family: "Trebuchet MS", Times, serif;
  }
+
+p.title {
+ font-family: "Verdana", Times, serif;
+ }
+
 
 ul {
     list-style-type: none;
@@ -35,7 +40,7 @@ li {
 li a {
     display: block;
     color: white;
-    text-align: left;
+    text-align: center;
     padding: 14px 16px;
     text-decoration: none;
 }
